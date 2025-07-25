@@ -3,7 +3,6 @@
 #include<cctype>
 #include<iomanip>
 using namespace std;
-
 class account
 {
 	int acno;
